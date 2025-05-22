@@ -1,5 +1,5 @@
 
-# SolanaSniper
+# Solana Sniper
 
 **SolanaSniper** is an automated trading bot (sniper bot) built for the Solana blockchain. It is designed to execute trades with high speed and precision, enabling users to snipe tokens or NFTs as soon as they become available.
 

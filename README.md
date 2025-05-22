@@ -1,2 +1,1 @@
-# SolanSniper
-Sniper Trading BOT Solana Chain
+# solana-sniper-api
